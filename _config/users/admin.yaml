@@ -4,9 +4,7 @@ last_name: Mulligan
 roles:
   - admin
 email: admin@stackarea.com
-password: ""
-_uid: 92DL1B540631522e178FNfB8q7w
-password_hash: $2a$08$udNbeP4IksXaF8DCgmZImORjw/7J6bo6GhAFwtRMtNBhQh5qTBLBO
+password: Husker24u 
 ---
 Have no fears, your password, while plain text to start, will be encrypted upon first login. If ever you need to manually reset a password you can wipe out the password fields and start anew.
 
